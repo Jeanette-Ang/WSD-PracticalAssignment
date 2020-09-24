@@ -1,0 +1,3 @@
+﻿UPDATE ORDERTABLE
+SET DeliveryDate='03/07/2020'
+Where OrderID>=110
